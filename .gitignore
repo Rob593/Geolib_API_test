@@ -1,0 +1,12 @@
+.idea/
+gef/
+Old/
+__pycache__
+geolib.env
+Batchlog.txt
+*.shd
+*.shi
+*.shs
+*.foi
+*.fod
+*.err
